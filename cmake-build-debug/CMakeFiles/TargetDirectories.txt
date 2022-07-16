@@ -1,0 +1,3 @@
+E:/progameren/C/games/tictactoe/cmake-build-debug/CMakeFiles/tictactoe.dir
+E:/progameren/C/games/tictactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/progameren/C/games/tictactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
